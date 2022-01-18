@@ -1,0 +1,12 @@
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.UI\bin\Debug\Patrones.Builder.UI.exe.config
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.UI\bin\Debug\Patrones.Builder.UI.exe
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.UI\bin\Debug\Patrones.Builder.UI.pdb
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.UI\bin\Debug\Patrones.Builder.Core.dll
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.UI\bin\Debug\Patrones.Builder.Core.pdb
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.UI\obj\Debug\Patrones.Builder.UI.csproj.AssemblyReference.cache
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.UI\obj\Debug\Patrones.Builder.UI.Form1.resources
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.UI\obj\Debug\Patrones.Builder.UI.Properties.Resources.resources
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.UI\obj\Debug\Patrones.Builder.UI.csproj.GenerateResource.cache
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.UI\obj\Debug\Patrones.Builder.UI.csproj.CoreCompileInputs.cache
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.UI\obj\Debug\Patrones.Builder.UI.exe
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.UI\obj\Debug\Patrones.Builder.UI.pdb

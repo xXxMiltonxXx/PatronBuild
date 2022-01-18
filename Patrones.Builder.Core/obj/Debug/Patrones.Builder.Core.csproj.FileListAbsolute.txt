@@ -1,0 +1,6 @@
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.Core\bin\Debug\Patrones.Builder.Core.dll
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.Core\bin\Debug\Patrones.Builder.Core.pdb
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.Core\obj\Debug\Patrones.Builder.Core.csproj.AssemblyReference.cache
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.Core\obj\Debug\Patrones.Builder.Core.csproj.CoreCompileInputs.cache
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.Core\obj\Debug\Patrones.Builder.Core.dll
+D:\Personal\Escritorio\Nueva carpeta (3)\Patrones.Builder\Patrones.Builder.Core\obj\Debug\Patrones.Builder.Core.pdb
